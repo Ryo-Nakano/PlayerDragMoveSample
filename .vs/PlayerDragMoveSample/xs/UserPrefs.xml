@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9E2E79DB-3045-B367-6EC7-6F0875950D81}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController_Horizontal.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController2.cs" Line="54" Column="26" />
+      <File FileName="Assets/Scripts/PlayerController_All.cs" Line="59" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a887d917-fa18-4c93-8da2-96b5c468cefb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
